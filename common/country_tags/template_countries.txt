@@ -1,2 +1,3 @@
 
 SSB = "countries/Simpson Bay.txt"
+NCT = "countries/New Chukotka.txt"

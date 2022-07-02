@@ -1,0 +1,25 @@
+capital = 11
+
+set_research_slots = 3
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	neutrality = 100
+}
+
+create_country_leader = {
+    name = "Roman Abramovich"
+    desc = "POLITICS_JERMAYNE_COBURN_DESC"
+    picture = "gfx/leaders/SOV/Portrait_SOV_Roman_Abramovich.dds"
+    expire = "1978.3.5"
+    ideology = despotism
+    traits = {
+    }
+}
+
