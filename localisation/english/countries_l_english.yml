@@ -27,6 +27,6 @@
  POI_DEF:0 "the Point Blanche Prison Gang"
  POI_ADJ:0 "Prisoner"
 
- ROY_0 "Royal Dutch Marines"
+ ROY:0 "Royal Dutch Marines"
  ROY_DEF:0 "the Royal Dutch Marines"
  ROY_ADJ:0 "Marine"
