@@ -6,3 +6,27 @@
  NCT:0 "New Chukotka"
  NCT_DEF:0 "the New Chukotka"
  NCT_ADJ:0 "New Chukotkan"
+
+ PON:0 "Government of Pond Island"
+ PON_DEF:0 "the Government of Pond Island"
+ PON_ADJ:0 "Pond Islander"
+
+ GEN:0 "Gendarmerie Nationale"
+ GEN_DEF:0 "the Gendarmerie Nationale"
+ GEN_ADJ:0 "Gendarme"
+
+ EUR:0 "European Union Peacekeeping Force"
+ EUR_DEF:0 "the European Union Peacekeeping Force"
+ EUR_ADJ:0 "European"
+
+ TOM:0 "Cruise Exiles"
+ TOM_DEF:0 "the Cruise Exiles"
+ TOM_ADJ:0 "Exile"
+
+ POI:0 "Point Blance Prison Gang"
+ POI_DEF:0 "the Point Blance Prison Gang"
+ POI_ADJ:0 "Prisoner"
+
+ ROY_0 "Royal Dutch Marines"
+ ROY_DEF:0 "the Royal Dutch Marines"
+ ROY_ADJ:0 "Marine"
